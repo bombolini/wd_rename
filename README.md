@@ -1,5 +1,9 @@
 # wd_rename
 Rename command for wd storage devices compatible with armv71 architecture
+After cloning repository:
+$ chmod +x rename.sh
+$ ./rename.sh
+given sample code changes the brackets by empty space in filenames.
 
 ------------------------------------------------------------------------------
 $uname -a
