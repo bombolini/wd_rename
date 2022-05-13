@@ -7,7 +7,7 @@ $ chmod +x rename.sh
 
 $ ./rename.sh
 
-given sample code changes the brackets by empty space in filenames.
+given sample code replaces the brackets by empty space in filenames.
 
 ------------------------------------------------------------------------------
 $uname -a
