@@ -10,3 +10,8 @@ prename(){
 #example:
 prename -v "s|[[]|\.|g" *
 prename -v "s|[]]|\.|g" *
+prename -v "s| |\.|g" *
+prename -v "s|[)]||g" *
+prename -v "s|[(]||g" *
+prename -v "s|\.-\.|-|g" *
+prename -v "s|\.\.|\.|g" *
